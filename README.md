@@ -13,3 +13,7 @@ While we may know that certain items are frequently bought together, the questio
 
 Besides increasing sales profits, association rules can also be used in other fields.
 In medical diagnosis for instance, understanding which symptoms tend to co-morbid can help to improve patient care and medicine prescription.
+
+![image](https://user-images.githubusercontent.com/25883512/50141024-12d51e80-02af-11e9-9ad6-81df199c8f1b.png)
+
+For references: This article https://www.kdnuggets.com/2016/04/association-rules-apriori-algorithm-tutorial.html
